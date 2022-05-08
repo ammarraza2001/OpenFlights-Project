@@ -2,7 +2,7 @@
 Do
 
 ```bash
-$ git clone https://github.com/mayaanayak/OpenFlightsGraphAlgorithms
+$ git clone https://github.com/ammarraza2001/OpenFlights-Project.git
 ```
 to get a copy of the repository. 
 
